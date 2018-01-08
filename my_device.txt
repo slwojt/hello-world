@@ -1,5 +1,5 @@
 
-DEVICE_ID
+DEVICE ID
 F66ABC46
 
 PARAMETERS <- konfiguracja
