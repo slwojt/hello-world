@@ -1,0 +1,21 @@
+
+DEVICE_ID
+F66ABC46
+
+PARAMETERS <- konfiguracja
+API Name 	Type 	ID
+swo_loco_temp1 	int 	1
+swo_loco_extra1 	bool 	2
+swo_loco_name 	string 	3
+
+ALERTS
+Alerts
+API Name 	Type 	ID
+max_temp 		4
+_reachability_alarm 		-1
+Time Based Series
+
+STATISTICS <- wartości mierzalne
+API Name 	Type 	ID
+engine_temp 	int8 	5
+
