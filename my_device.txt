@@ -2,17 +2,42 @@
 DEVICE ID
 F66ABC46
 
+--- NEW --------------------------
+
+Configuration Parameters
+API Name 		Type 	ID
+swo_loco_max_temp 	int 	1
+swo_loco_extra1 	bool 	2
+swo_loco_name 		string 	3
+
+Alerts
+API Name 		Type 	ID
+alert_out_of_fuel	 	6
+warning_low_fuel 		7
+alert_max_temp 			4
+_reachability_alarm 		-1
+
+Time Based Series (Statistics)
+API Name 		Type 	ID
+engine_temp 		int8 	5
+fuel_level 		uint16 	8
+
+
+
+
+--- OLD --------------------------
+
 PARAMETERS <- konfiguracja
 API Name 	Type 	ID
 swo_loco_temp1 	int 	1
-swo_loco_extra1 	bool 	2
+swo_loco_extra1 bool 	2
 swo_loco_name 	string 	3
 
 ALERTS
 Alerts
 API Name 	Type 	ID
 max_temp 		4
-_reachability_alarm 		-1
+_reachability_alarm 	-1
 Time Based Series
 
 STATISTICS <- wartości mierzalne
