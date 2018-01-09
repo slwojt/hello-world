@@ -1,6 +1,6 @@
 
 DEVICE ID
-F66ABC46
+F023E0AC
 
 --- NEW --------------------------
 
@@ -12,16 +12,15 @@ swo_loco_name 		string 	3
 
 Alerts
 API Name 		Type 	ID
-alert_out_of_fuel	 	6
-warning_low_fuel 		7
-alert_max_temp 			4
-_reachability_alarm 		-1
+alert_out_of_fuel 	4
+_reachability_alarm 	-1
+warning_low_fuel 	5
+alert_max_temp 		6
 
-Time Based Series (Statistics)
+Time Based Series (statistics)
 API Name 		Type 	ID
-engine_temp 		int8 	5
+engine_temp 		uint8 	7
 fuel_level 		uint16 	8
-
 
 
 
