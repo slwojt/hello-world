@@ -1,4 +1,2 @@
 Dodatkowy plik
-(zmodyfikowany)
-zmodyfikowany po raz drugi
-
+Zmieniono zawartość pliku
