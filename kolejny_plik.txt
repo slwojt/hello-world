@@ -1,4 +1,6 @@
 Jeszcze jeden plik
 druga linia pliku
 trzecia linia pliku
+czwarta linia
+piąta linia
 
