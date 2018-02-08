@@ -1,3 +1,3 @@
 # hello-world
 **Projekt Świat**
-by *Sławek*
+(C) 2018 by *Sławek*
