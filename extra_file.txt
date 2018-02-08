@@ -2,3 +2,4 @@ Dodatkowy plik
 (zmodyfikowany)
 zmodyfikowany po raz drugi
 modyfikacja w branchu głównym
+modyfikacja w gałęzi lokalna_zmiana
