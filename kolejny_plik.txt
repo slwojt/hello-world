@@ -3,4 +3,4 @@ druga linia pliku
 trzecia linia pliku
 czwarta linia
 piąta linia
-
+linia szósta
